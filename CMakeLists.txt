@@ -8,4 +8,5 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 #add_subdirectory(3_threads)
 #add_subdirectory(ref_types)
-add_subdirectory(release_sequence_57)
+#add_subdirectory(release_sequence_57)
+add_subdirectory(tasks)
